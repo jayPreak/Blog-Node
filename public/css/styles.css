@@ -1,3 +1,12 @@
+a {
+    text-decoration: none;
+    color: inherit;
+}
+a:hover {
+    text-decoration: none;
+    color: #1abc9c;
+}
+
 .container-fluid {
     padding-top: 70px;
     padding-bottom: 70px;
@@ -25,7 +34,7 @@
 	bottom: 0;
 	width: 100%;
 	height: 60px;
-	background-color: #1abc9c;
+	background-color: #85827b;
 }
 
 .footer p {
